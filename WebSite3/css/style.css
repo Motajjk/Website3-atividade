@@ -61,6 +61,13 @@ ul li a{
 
 ul li a:hover {
     color: yellow;
+    font-size: 15px;
+}
+
+.active {
+    color: yellow;
+    border-bottom: 2px solid yellow;
+    font-size: 15px;
 }
 
 .search {
